@@ -1,0 +1,28 @@
+Student_id,Student_Name,Student_College,Student_Status,Student_DSAFinalScore,Student_WebDFinalScore,Student_ReactFinalScore,Student_InterviewDate,Student_InterviewCompany,Student_InterviewResult
+6630dc2c1a379af6ca4e66ec,student,dav college,not placed,96,98,99,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,PASS
+6630dc2c1a379af6ca4e66ec,student,dav college,not placed,96,98,99,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,PASS
+6630dc2c1a379af6ca4e66ec,student,dav college,not placed,96,98,99,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,On Hold
+6630dc2c1a379af6ca4e66ec,student,dav college,not placed,96,98,99,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,On Hold
+6630dc2c1a379af6ca4e66ec,student,dav college,not placed,96,98,99,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,On Hold
+6630dc2c1a379af6ca4e66ec,student,dav college,not placed,96,98,99,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,PASS
+6630dc2c1a379af6ca4e66ec,student,dav college,not placed,96,98,99,Sat May 04 2024 05:30:00 GMT+0530 (India Standard Time),siemens,PASS
+6630dc2c1a379af6ca4e66ec,student,dav college,not placed,96,98,99,Sat May 04 2024 05:30:00 GMT+0530 (India Standard Time),siemens,Didn't Attempt
+6630dc2c1a379af6ca4e66ec,student,dav college,not placed,96,98,99,Sat May 04 2024 05:30:00 GMT+0530 (India Standard Time),siemens,On Hold
+6630dc651a379af6ca4e66f1,student2,kiit college 2,placed,99,97,80,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,PASS
+6630dc651a379af6ca4e66f1,student2,kiit college 2,placed,99,97,80,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,PASS
+6630dc651a379af6ca4e66f1,student2,kiit college 2,placed,99,97,80,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,On Hold
+6630dc651a379af6ca4e66f1,student2,kiit college 2,placed,99,97,80,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,On Hold
+6630dc651a379af6ca4e66f1,student2,kiit college 2,placed,99,97,80,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,On Hold
+6630dc651a379af6ca4e66f1,student2,kiit college 2,placed,99,97,80,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,PASS
+6630dc651a379af6ca4e66f1,student2,kiit college 2,placed,99,97,80,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,PASS
+6630dc651a379af6ca4e66f1,student2,kiit college 2,placed,99,97,80,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,PASS
+6630dc651a379af6ca4e66f1,student2,kiit college 2,placed,99,97,80,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,On Hold
+6630dc651a379af6ca4e66f1,student2,kiit college 2,placed,99,97,80,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,On Hold
+6630dc651a379af6ca4e66f1,student2,kiit college 2,placed,99,97,80,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,On Hold
+6630dc651a379af6ca4e66f1,student2,kiit college 2,placed,99,97,80,Wed May 01 2024 05:30:00 GMT+0530 (India Standard Time),kpmg,PASS
+6631082a8c9e4673f4b3bc5a,new student,amity,not placed,96,98,100,Sat May 04 2024 05:30:00 GMT+0530 (India Standard Time),siemens,PASS
+6631082a8c9e4673f4b3bc5a,new student,amity,not placed,96,98,100,Sat May 04 2024 05:30:00 GMT+0530 (India Standard Time),siemens,Didn't Attempt
+6631082a8c9e4673f4b3bc5a,new student,amity,not placed,96,98,100,Sat May 04 2024 05:30:00 GMT+0530 (India Standard Time),siemens,On Hold
+6631085b8c9e4673f4b3bc5f,new test student,DTU,placed,96,98,99,Sat May 04 2024 05:30:00 GMT+0530 (India Standard Time),siemens,PASS
+6631085b8c9e4673f4b3bc5f,new test student,DTU,placed,96,98,99,Sat May 04 2024 05:30:00 GMT+0530 (India Standard Time),siemens,Didn't Attempt
+6631085b8c9e4673f4b3bc5f,new test student,DTU,placed,96,98,99,Sat May 04 2024 05:30:00 GMT+0530 (India Standard Time),siemens,On Hold
