@@ -27,7 +27,7 @@ App attributes -
 
 ## Process to start the APP
 
-- **download the file as zip**
+- **download the file as zip and extract in a folder**
 - **check the package.json for dependencies required**
 - _open the root directory in terminal and run npm install_
 - _connect to mongoDB server the community edition for the OS you have windows /mac / linux /ubuntu downoad the desktop edition from website_
