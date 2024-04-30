@@ -30,7 +30,7 @@ App attributes -
 - **download the file as zip and extract in a folder**
 - **check the package.json for dependencies required**
 - _open the root directory in terminal and run npm install_
-- _connect to mongoDB server the community edition for the OS you have windows /mac / linux /ubuntu downoad the desktop edition from website_
-- _check the environment .env file for more details for ease of install_
+- _important - connect to mongoDB server the community edition for the OS you have windows /mac / linux /ubuntu downoad the desktop edition from website_
+- _**check the environment .env file for more details for ease of install**_
 - _open terminal and type npm run start_
 - _open a browser and type http://localhost:8000 to view the project_
