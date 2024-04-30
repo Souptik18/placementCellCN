@@ -1,6 +1,6 @@
 # Placement Cell App in nodejs
 
-\***\*important technologies used\*\***
+**important technologies used**
 
 1. Nodejs
 2. mongodb
